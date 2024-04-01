@@ -19,6 +19,9 @@ This Python script detects dots in an image using contour detection techniques a
 - Python 3.x
 - OpenCV
 - pylibdmtx
+## RESULT
+![image](https://github.com/Prateekshayuvaraj/dot_pin_qr_recogniser/assets/123887021/662e187c-81cf-4c80-9de1-accee34f8f92)
+
 
 ## Acknowledgements
 - Inspired by the concepts of contour detection and DataMatrix decoding in image processing.
